@@ -18,8 +18,8 @@ To install requirements:
 pip install requirements.txt
 ```
 ## Dataset
-The [DocRED](https://www.aclweb.org/anthology/P19-1074/) dataset can be downloaded following the instructions at [link](https://drive.google.com/drive/folders/1owp7ZRbrMl_s1ljIh6AvnmniLJSliV6h?usp=sharing).
-Noted that the dev.json file has been modified in Aug, 2021. The modified version contains 998 documents. We use the original version of dev.json, which contains 1000 documents.
+The [DocRED](https://www.aclweb.org/anthology/P19-1074/) dataset used in our model can be downloaded following the instructions at [link](https://drive.google.com/drive/folders/1owp7ZRbrMl_s1ljIh6AvnmniLJSliV6h?usp=sharing).
+Noted that the dev.json file in the [public Github](https://github.com/thunlp/DocRED) has been modified in Aug, 2021. The modified version contains 998 documents. We use the original version of dev.json, which contains 1000 documents.
 
 The expected structure of files is:
 ```
