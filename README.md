@@ -36,7 +36,7 @@ Inferring CDER result to prepare for integrating to DocRE with the following com
 >> sh scripts/infer.sh
 ```
 ## DocRE result
-We use the [Github](https://github.com/youmima/dreeam) from DREEAM model to integrate the extracted evidence result from CDER. To reproduce the result, simply replace the evidence result of DREEAM with the evidence result of CDER.
+We utilize the [GitHub repository](https://github.com/youmima/dreeam) for the DREEAM model to integrate the extracted evidence results from CDER. To reproduce the results, simply replace DREEAM's evidence output with the evidence results from CDER.
 ## Citation
 If you make use of this code in your work, please kindly cite the following paper:
 ```bibtex
