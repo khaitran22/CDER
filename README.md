@@ -30,7 +30,7 @@ After training, testing CDER with the following command:
 ```bash
 >> sh scripts/test.sh
 ```
-Inferring CDER result to prepare for integrating to DocRE with the following command:
+Inferring CDER result for integrating to DocRE with the following command:
 ```bash
 >> sh scripts/infer.sh
 ```
