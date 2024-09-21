@@ -23,12 +23,14 @@ Noted that the dev.json file has been modified in Aug, 2021. The modified versio
 
 The expected structure of files is:
 ```
-|-- docred
-  |-- dev.json
-  |-- meta
-    |-- rel2id.json
-    |-- rel_info.json
-  |-- test.json
-  |-- train_annotated.json
-  |-- train_distant.json
+|-- CDER
+  |-- dataset
+    |-- docred
+      |-- dev.json
+      |-- test.json
+      |-- train_annotated.json
+      |-- train_distant.json
+      |-- meta
+        |-- rel2id.json
+        |-- rel_info.json
 ```
