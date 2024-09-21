@@ -50,3 +50,7 @@ If you make use of this code in your work, please kindly cite the following pape
 }
 ```
 ## Reference
+```
+[1] Wenxuan Zhou, Kevin Huang, Tengyu Ma, and Jing Huang. 2021. Document-level relation extraction with adaptive thresholding and localized context pool- ing. In Proceedings of the AAAI Conference on Arti- ficial Intelligence.
+[2] Youmi Ma, An Wang, and Naoaki Okazaki. 2023. DREEAM: Guiding Attention with Evidence for Improving Document-Level Relation Extraction. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 1971–1983, Dubrovnik, Croatia. Association for Computational Linguistics.
+```
