@@ -27,6 +27,14 @@ Train CDER on DocRED with the following command:
 ```bash
 >> sh scripts/train.sh  # for BERT
 ```
+After training, testing CDER with the following command:
+```bash
+>> sh scripts/test.sh  # for BERT
+```
+Inferring CDER result to prepare for integrating to DocRE with the following command:
+```bash
+>> sh scripts/infer.sh  # for BERT
+```
 ## Citation
 If you make use of this code in your work, please kindly cite the following paper:
 ```bibtex
