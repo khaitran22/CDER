@@ -1,0 +1,15 @@
+python train.py --data_dir ./dataset/docred/ \
+ --train_file train_annotated.json \
+ --dev_file dev.json \
+ --test_file test.json \
+ --transformer_type bert \
+ --model_name_or_path bert-base-cased \
+ --train_batch_size 4 \
+ --test_batch_size 4 \
+ --gradient_accumulation_steps 1 \
+ --learning_rate 5e-5 \
+ --grouped_learning_rate 1e-4 \
+ --num_train_epochs 30.0 \
+ --warmup_ratio 0.06 \
+ --max_grad_norm 1.0 \
+ --save_path ./checkpoints/cder.pt
