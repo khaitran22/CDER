@@ -8,7 +8,7 @@ pip install requirements.txt
 ## Dataset
 The [DocRED](https://www.aclweb.org/anthology/P19-1074/) dataset used in our model can be downloaded by following the instructions at this [link](https://drive.google.com/drive/folders/1owp7ZRbrMl_s1ljIh6AvnmniLJSliV6h?usp=sharing). 
 
-You can find the current version of DocRED dataset and the `meta` folder from [their public repo](https://github.com/thunlp/DocRED).
+You can find the current version of DocRED dataset and all `.json` files in the `meta` folder from [their public repo](https://github.com/thunlp/DocRED).
 
 Please note that the `dev.json` file available in the current DocRED was modified in August 2021, and the updated version contains 998 documents. We use the original version of `dev.json`, which includes 1000 documents.
 
