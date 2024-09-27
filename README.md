@@ -1,5 +1,5 @@
 # CDER - Collaborative Evidence Retrieval for DocRE
-The source code for the ACIIDS'24 paper "[CDER: Collaborative Evidence Retrieval for Document-level Relation Extraction](https://doi.org/10.1007/978-981-97-4982-9_3)"
+[ACIIDS'24] The source code for the paper "[CDER: Collaborative Evidence Retrieval for Document-level Relation Extraction](https://doi.org/10.1007/978-981-97-4982-9_3)"
 ## Requirements
 To install requirements:
 ```python
