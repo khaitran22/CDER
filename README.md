@@ -1,7 +1,7 @@
 # CDER - Collaborative Evidence Retrieval for DocRE
 [ACIIDS'24] The source code for the paper "[CDER: Collaborative Evidence Retrieval for Document-level Relation Extraction](https://doi.org/10.1007/978-981-97-4982-9_3)"
 <div align="center">
-  <img src="https://github.com/khaitran22/CDER/tree/main/figs/overall-cder.png">
+  <img src="https://github.com/khaitran22/CDER/blob/main/figs/overall-cder.png">
 </div>
 
 ## Requirements
